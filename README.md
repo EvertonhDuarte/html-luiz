@@ -1,1 +1,1 @@
-# https://html-luiz.github.io/
+# http://html-luiz.github.io
