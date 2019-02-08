@@ -1,1 +1,1 @@
-# https://github.com/eSquanchy/html-luiz/
+# https://esquanchy.github.io/html-luiz/
